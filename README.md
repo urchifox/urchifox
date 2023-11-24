@@ -21,6 +21,13 @@ I’m Kate and I'm really passionate about working with visual content, and at t
  - Create a spreadsheet for tracking and analyzing studio's products sales income
  - Wrote several scripts using Google Apps Script for automation work with Google Application
 
-And in the end some statistics from codewars: [![codewars](https://www.codewars.com/users/urchifox/badges/small?theme=light)](https://www.codewars.com/users/urchifox)
-
+<p>And in the end some statistics from codewars
+ <span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=light">
+    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.codewars.com/users/urchifox/badges/small?theme=light">
+  </picture>
+ </span>
+</p>
 ### Feel free to contact me via <a href="https://t.me/urchifox"><img height="20" src="https://github.com/urchifox/urchifox/assets/126313096/a58aa139-9bf7-42a4-a2fa-9eac9a33ae6c"></a> <a href="https://wa.me/79601143943"><img height="20" src="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9"></a> <a href="mailto:urchifox@gmail.com"><img height="20" src="https://github.com/urchifox/urchifox/assets/126313096/1dccfc2c-449d-4e11-aee3-a2cf5247147b"></a>
