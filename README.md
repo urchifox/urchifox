@@ -1,6 +1,10 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet" alt="Typing SVG" />
+  </picture>
  </a>
 </h1>
 
@@ -52,7 +56,7 @@
 
  <a href="https://wa.me/79601143943">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/30d2bf57-f351-40e2-a912-2769a8805d5f">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/508cf3e9-76ae-4601-9cb9-a9793c94adc8">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9">
    <img  height="20" alt="" src="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9">
   </picture>
