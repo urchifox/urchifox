@@ -45,28 +45,30 @@
  </span>
 </p>
 
-<h3 align="center">Feel free to contact me via 
+<h3 align="center">Feel free to contact me</h3>
+<div align="center">
  <a href="https://t.me/urchifox">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/30d2bf57-f351-40e2-a912-2769a8805d5f">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/4c643966-ccc7-443a-8286-2e2c3a8d4270">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/a58aa139-9bf7-42a4-a2fa-9eac9a33ae6c">
-   <img  height="20" alt="" src="https://github.com/urchifox/urchifox/assets/126313096/a58aa139-9bf7-42a4-a2fa-9eac9a33ae6c">
+   <img  height="20" alt="Telegram" src="https://github.com/urchifox/urchifox/assets/126313096/a58aa139-9bf7-42a4-a2fa-9eac9a33ae6c">
   </picture>
  </a>
 
  <a href="https://wa.me/79601143943">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/508cf3e9-76ae-4601-9cb9-a9793c94adc8">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/6b92133a-891c-4675-9b82-4e76290a6c26">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9">
-   <img  height="20" alt="" src="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9">
+   <img  height="20" alt="whatsApp" src="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9">
   </picture>
  </a>
 
  <a href="mailto:urchifox@gmail.com">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/aa0dd605-12df-4aef-9740-c75d8e483015">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/2d6c078c-b8fb-45c5-a7ad-41ce78f9a2c3">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/1dccfc2c-449d-4e11-aee3-a2cf5247147b">
-   <img  height="20" alt="" src="https://github.com/urchifox/urchifox/assets/126313096/1dccfc2c-449d-4e11-aee3-a2cf5247147b">
+   <img  height="20" alt="Gmail" src="https://github.com/urchifox/urchifox/assets/126313096/1dccfc2c-449d-4e11-aee3-a2cf5247147b">
   </picture>
  </a>
-</h3>
+</div>
+
