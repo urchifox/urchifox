@@ -1,7 +1,7 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
+    <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hello%2C+World!+Let's+meet" alt="Typing SVG" />
   </picture>
@@ -47,7 +47,7 @@
 
 <h3 align="center">Feel free to contact me</h3>
 <div align="center">
- <a href="https://t.me/urchifox">
+ <a href="https://t.me/urchifox" target="_blank">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/4c643966-ccc7-443a-8286-2e2c3a8d4270">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/a58aa139-9bf7-42a4-a2fa-9eac9a33ae6c">
@@ -55,7 +55,7 @@
   </picture>
  </a>
 
- <a href="https://wa.me/79601143943">
+ <a href="https://wa.me/79601143943" target="_blank">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/6b92133a-891c-4675-9b82-4e76290a6c26">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/00467b52-2848-4df8-bdd5-9c0af8b508d9">
@@ -63,7 +63,7 @@
   </picture>
  </a>
 
- <a href="mailto:urchifox@gmail.com">
+ <a href="mailto:urchifox@gmail.com" target="_blank">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/urchifox/urchifox/assets/126313096/2d6c078c-b8fb-45c5-a7ad-41ce78f9a2c3">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/urchifox/urchifox/assets/126313096/1dccfc2c-449d-4e11-aee3-a2cf5247147b">
