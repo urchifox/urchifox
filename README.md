@@ -26,7 +26,7 @@
 
 ![Static Badge](https://img.shields.io/badge/googleappsscript-%2325b8eb.svg?style=for-the-badge&logo=googleappsscript&logoColor=white) ![Static Badge](https://img.shields.io/badge/googlesheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) ![Static Badge](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<h2>A bit about my achievements</h2>
+<h3>A bit about my achievements</h3>
 <ul>
  <li>Made a personal application for budgeting using Google AppSheet</li>
  <li>Developed a CRM based on Bitrix24 for online school</li>
@@ -35,15 +35,13 @@
  <li>Wrote several scripts using Google Apps Script for automation work with Google Application</li>
 </ul>
 
-<p><b>And in the end some statistics from codewars</b>
- <span>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=light">
-    <img alt="" src="https://www.codewars.com/users/urchifox/badges/small?theme=light">
-  </picture>
- </span>
-</p>
+<span>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=dark">
+   <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=light">
+   <img alt="" src="https://www.codewars.com/users/urchifox/badges/small?theme=light">
+ </picture>
+</span>
 
 <h3 align="center">Feel free to contact me</h3>
 <div align="center">
