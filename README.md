@@ -16,7 +16,7 @@
 
 <h3>Completed programs:</h3>
 <ul>
- <li>Course "HTML &CSS: Adaptive Website Coding and Automation"</li>
+ <li>Course "HTML & CSS: Adaptive Website Coding and Automation"</li>
  <li>Course "JavaScript: Professional Development of Web Interface"</li>
  <li>Course "JavaScript: Architecture of Front-end Applications"</li>
  <li>Four self-study big tutorials about markup and styling</li>
