@@ -8,11 +8,21 @@
  </a>
 </h1>
 
-<p>I’m Kate and I'm really passionate about working with visual content, and at the same time love to solve logic questions and optimization issues. For three amazing years I was working in game-dev outsourcing studio as 2d-artist. After that I have engrossing two years working as process manager. But there was always lack of something. And now I've finally found balanced combination of all these tasks in the frontend. </p>
+<p>Kate, passionate about creating visual content and equally enjoy solving logic tasks and optimization challenges.</p> 
+
+<p>For three amazing years, I worked as a <b>2D artist</b> at a game-dev outsourcing studio. After that, I spent two exciting years as a <b>no-code developer</b>. But something was always missing. Eventually, I found the perfect balance in frontend development, and for now, I’ve been working as a <b>web games frontend developer</b> for over a year and a half.</p>
 
 <h2>Frontend skills:</h2>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Static Badge](https://img.shields.io/badge/BEM-%234285F4.svg?style=for-the-badge&logo=bem&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Static Badge](https://img.shields.io/badge/BEM-%234285F4.svg?style=for-the-badge&logo=bem&logoColor=white)
 
 <h3>Completed programs:</h3>
 <ul>
