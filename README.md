@@ -21,38 +21,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Static Badge](https://img.shields.io/badge/BEM-%234285F4.svg?style=for-the-badge&logo=bem&logoColor=white)
-
-<h3>Completed programs:</h3>
-<ul>
- <li>Course "HTML & CSS: Adaptive Website Coding and Automation"</li>
- <li>Course "JavaScript: Professional Development of Web Interface"</li>
- <li>Course "JavaScript: Architecture of Front-end Applications"</li>
- <li>Four self-study big tutorials about markup and styling</li>
- <li>And also more then 75% of Html Academy exercises</li>
-</ul>
 
 <h2>Other skills:</h2>
 
-![Static Badge](https://img.shields.io/badge/googleappsscript-%2325b8eb.svg?style=for-the-badge&logo=googleappsscript&logoColor=white) ![Static Badge](https://img.shields.io/badge/googlesheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) ![Static Badge](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<h3>A bit about my achievements</h3>
-<ul>
- <li>Made a personal application for budgeting using Google AppSheet</li>
- <li>Developed a CRM based on Bitrix24 for online school</li>
- <li>Create a set of analytical spreadsheets for tracking employee expenses based on their salaries and time spend on different tasks</li>
- <li>Create a spreadsheet for tracking and analyzing studio's products sales income</li>
- <li>Wrote several scripts using Google Apps Script for automation work with Google Application</li>
-</ul>
-
-<span>
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=dark">
-   <source media="(prefers-color-scheme: light)" srcset="https://www.codewars.com/users/urchifox/badges/small?theme=light">
-   <img alt="" src="https://www.codewars.com/users/urchifox/badges/small?theme=light">
- </picture>
-</span>
+![Google Appsscript](https://img.shields.io/badge/googleappsscript-%2325b8eb.svg?style=for-the-badge&logo=googleappsscript&logoColor=white) 
+![Google Sheets](https://img.shields.io/badge/googlesheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) 
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h3 align="center">Feel free to contact me</h3>
 <div align="center">
