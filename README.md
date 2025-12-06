@@ -12,25 +12,18 @@
 
 <p>For three amazing years, I worked as a <b>2D artist</b> at a game-dev outsourcing studio. After that, I spent two exciting years as a <b>no-code developer</b>. But something was always missing. Eventually, I found the perfect balance in frontend development, and for now, I’ve been working as a <b>web games frontend developer</b> for over a year and a half.</p>
 
-<h2>Frontend skills:</h2>
+<div align="center">
+ 
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+ ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+ ![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black) 
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+ ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+ 
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
-<h2>Other skills:</h2>
-
-![Google Appsscript](https://img.shields.io/badge/googleappsscript-%2325b8eb.svg?style=for-the-badge&logo=googleappsscript&logoColor=white) 
-![Google Sheets](https://img.shields.io/badge/googlesheets-%2334A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white) 
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<h3 align="center">Feel free to contact me</h3>
 <div align="center">
  <a href="https://t.me/urchifox" target="_blank">
   <picture>
@@ -56,4 +49,3 @@
   </picture>
  </a>
 </div>
-
