@@ -10,7 +10,7 @@
 
 <p>Kate, passionate about creating visual content and equally enjoy solving logic tasks and optimization challenges.</p> 
 
-<p>For three amazing years, I worked as a <b>2D artist</b> at a game-dev outsourcing studio. After that, I spent two exciting years as a <b>no-code developer</b>. But something was always missing. Eventually, I found the perfect balance in frontend development, and for now, I’ve been working as a <b>web games frontend developer</b> for over a year and a half.</p>
+<p>For three amazing years, I worked as a <b>2D artist</b> at a game-dev outsourcing studio. After that, I spent two exciting years as a <b>no-code developer</b>. But something was always missing. Eventually, I found the perfect balance in frontend development, and for now, I’ve been working as a <b>web games frontend developer</b> for two years.</p>
 
 <div align="center">
 
